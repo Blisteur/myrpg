@@ -1,0 +1,15 @@
+RESOLUTION:{1920*1080} //default 1920*1080
+FULLSCREEN:{0} //default 0
+BITS_PER_PIXEL:{32} //default 32
+FPS:{60} //default 60
+MASTER_SOUND:{0} //default 100
+EFFECT_SOUND:{30} //default 100
+
+/--------------------HELP-SETTINGS------------------------\
+RESOLUTION:{width*height}
+FULLSCREEN:{0 or 1} 0 for false 1 for true
+BITS_PER_PIXEL:{number of bits per pixel}
+FPS:{number of frames per second}
+MASTER_SOUND:{number between 0 and 100 percent for music volume}
+EFFECT_SOUND:{number between 0 and 100 percent for effect volume}
+/---------------------------------------------------------\\\
